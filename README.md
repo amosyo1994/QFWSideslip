@@ -2,6 +2,31 @@
 
 ## Download
 
+maven
+
+```groovy
+<dependency>
+  <groupId>com.amosyo</groupId>
+  <artifactId>QFWSideslip</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+
+gradle
+
+```groovy
+compile 'com.amosyo:QFWSideslip:1.0.0'
+```
+
+lvy
+
+```groovy
+<dependency org='com.amosyo' name='QFWSideslip' rev='1.0.0'>
+  <artifact name='QFWSideslip' ext='pom' ></artifact>
+</dependency>
+```
+
 
 
 ## 示例
